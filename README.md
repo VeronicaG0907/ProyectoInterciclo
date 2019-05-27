@@ -4,9 +4,9 @@
 
 El objetivo del presente proyecto es crear una aplicación para la difelizacion de jovenes interesados en la educacion universitaria con el fin de que los aspirantes esten interesados estudiar dentro de la Universidad Politecnica Salesiana, Para llevar a cabo este objetivo se implementara dentro de la aplicación informacion a todos las personas que utilizen la misma para que tengan acceso a todas las carreras que brinda la universidad y posteriormente puedan formalizar su matricula. La aplicación sera desarrollada en IONIC para todos los dispositivos moviles. Con el fin de brindar a los aspirantes una plataforma accesible para su informacion. Todos los datos seran guardados en una base de datos para obtener informacion de los posibles aspirantes que llegara a tener la universidad. 
 
-* item 1 **Objetivos**
+**Objetivos**
 
-- * item 2**Objetivo General**
+- * **Objetivo General**
 
 * * item 2a El objetivo general de este proyecto es desarrollar una aplicación para dispositivos moviles para brindar informacion a las personas interesadas en estudiar dentro de la universidad. 
 
