@@ -4,6 +4,7 @@ Interciclo
 Introduccion 
 
 Objetivos
-aqui van objetivos
+
+- aqui van objetivos
 
 Antecedentes
