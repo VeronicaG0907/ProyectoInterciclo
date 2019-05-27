@@ -6,9 +6,16 @@ El objetivo del presente proyecto es crear una aplicación para la difelizacion 
 
 Objetivos
 
-- aqui van objetivos
+-Objetivo General
 
-Aplicaciones Distribuidas: Una aplicación distribuida es aquella cuyo objetivo final se alcanza mediante la ejecución de diversos procesos independientes que por lo general se ejecutan en equipos diferentes y que de una forma u otra se pasan datos entre ellos mediante protocolos de comunicaciones bien establecidos
+--El objetivo general de este proyecto es desarrollar una aplicación para dispositivos moviles para brindar informacion a las personas interesadas en estudiar dentro de la universidad. 
+
+-Objetivo Especificos 
+
+--Desarrollar una aplicación para que los interesados se registren en la aplicación y obtener informacion de cual sera su posible carrera a seguir. 
+
+--La informacion obtenida sera almaceda para el analisis de los posibles estudiantes que llegaria a tener la universidad. 
+
 
 Antecedentes
 
