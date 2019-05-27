@@ -8,13 +8,13 @@ Objetivos
 
 - Objetivo General
 
---El objetivo general de este proyecto es desarrollar una aplicación para dispositivos moviles para brindar informacion a las personas interesadas en estudiar dentro de la universidad. 
+-- El objetivo general de este proyecto es desarrollar una aplicación para dispositivos moviles para brindar informacion a las personas interesadas en estudiar dentro de la universidad. 
 
--Objetivo Especificos 
+- Objetivo Especificos 
 
---Desarrollar una aplicación para que los interesados se registren en la aplicación y obtener informacion de cual sera su posible carrera a seguir. 
+--,Desarrollar una aplicación para que los interesados se registren en la aplicación y obtener informacion de cual sera su posible carrera a seguir. 
 
---La informacion obtenida sera almaceda para el analisis de los posibles estudiantes que llegaria a tener la universidad. 
+-- La informacion obtenida sera almaceda para el analisis de los posibles estudiantes que llegaria a tener la universidad. 
 
 
 Antecedentes
