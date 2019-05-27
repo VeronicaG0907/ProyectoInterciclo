@@ -1,10 +1,10 @@
 # Proyecto Interciclo
 
-**Introduccion** 
+**INTRODUCCION** 
 
 El objetivo del presente proyecto es crear una aplicación para la difelizacion de jovenes interesados en la educacion universitaria con el fin de que los aspirantes esten interesados estudiar dentro de la Universidad Politecnica Salesiana, Para llevar a cabo este objetivo se implementara dentro de la aplicación informacion a todos las personas que utilizen la misma para que tengan acceso a todas las carreras que brinda la universidad y posteriormente puedan formalizar su matricula. La aplicación sera desarrollada en IONIC para todos los dispositivos moviles. Con el fin de brindar a los aspirantes una plataforma accesible para su informacion. Todos los datos seran guardados en una base de datos para obtener informacion de los posibles aspirantes que llegara a tener la universidad. 
 
-**Objetivos**
+**OBJETIVOS**
 
  * **Objetivo General**
 
@@ -17,7 +17,7 @@ El objetivo del presente proyecto es crear una aplicación para la difelizacion 
 * La informacion obtenida sera almaceda para el analisis de los posibles estudiantes que llegaria a tener la universidad. 
 
 
-Antecedentes
+**ANTECEDENTES**
 
 
 Prototipo
