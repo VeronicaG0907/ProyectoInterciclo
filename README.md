@@ -12,4 +12,5 @@ Aplicaciones Distribuidas: Una aplicación distribuida es aquella cuyo objetivo 
 Antecedentes
 
 
-
+Prototipo
+![prototipo](https://user-images.githubusercontent.com/47520065/58437933-caa5fd80-8091-11e9-8088-1b8b1fb076be.png)
