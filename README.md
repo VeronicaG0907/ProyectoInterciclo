@@ -8,7 +8,7 @@ El objetivo del presente proyecto es crear una aplicación para la difelizacion 
 
  * **Objetivo General**
 
-* * item 2a El objetivo general de este proyecto es desarrollar una aplicación para dispositivos moviles para brindar informacion a las personas interesadas en estudiar dentro de la universidad. 
+ *  El objetivo general de este proyecto es desarrollar una aplicación para dispositivos moviles para brindar informacion a las personas interesadas en estudiar dentro de la universidad. 
 
 - **Objetivo Especificos** 
 
