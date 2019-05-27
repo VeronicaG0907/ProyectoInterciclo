@@ -14,7 +14,7 @@ El objetivo del presente proyecto es crear una aplicación para la difelizacion 
 
 * Desarrollar una aplicación para que los interesados se registren en la aplicación y obtener informacion de cual sera su posible carrera a seguir. 
 
--- La informacion obtenida sera almaceda para el analisis de los posibles estudiantes que llegaria a tener la universidad. 
+* La informacion obtenida sera almaceda para el analisis de los posibles estudiantes que llegaria a tener la universidad. 
 
 
 Antecedentes
