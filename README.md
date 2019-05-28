@@ -20,8 +20,7 @@ El objetivo del presente proyecto es crear una aplicación para la difelizacion 
 **ANTECEDENTES**
 
 
-
- Requerimientos Funcionales y no Funcionales
+**Requerimiento Funcionales y No Funcinales**
 
 a.	Requerimientos Funcionales
 
