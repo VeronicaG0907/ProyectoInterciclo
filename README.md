@@ -38,17 +38,23 @@ La aplicación móvil será realizada para los sistemas operativos Android e IOS
 **Requerimiento Funcionales y No Funcinales**
 
 Requerimientos Funcionales
-RF1: El sistema contará con una web transaccional y una aplicación móvil.  
-RF2: Desde la aplicación se podrá registrar aspirantes o usuarios nuevos. 
-RF3: La aplicación contará con una pantalla de login.
+RF1: El sistema contará con una web transaccional y una aplicación móvil
+
+RF2: Desde la aplicación se podrá registrar aspirantes o usuarios nuevos.
+
+RF3: La aplicación contará con una pantalla de login
+
 RF4: La aplicación deberá mostrar información de las carreras y de los eventos importantes (expoUPS).
+
 RF6: Contará con una web transaccional en donde se podrán hacer crud de los datos
 
 
 Requerimientos no Funcionales
 
-RNF1: La aplicación debe tener un manejo intuitivo.
-RNF2: La aplicación poseerá un diseño que sea agradable a la vista. 
+RNF1: La aplicación debe tener un manejo intuitivo
+
+RNF2: La aplicación poseerá un diseño que sea agradable a la vista.
+
 RNF3: Deberá ser compatible con el api 28 de android.
 
 Prototipo
