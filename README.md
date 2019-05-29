@@ -33,6 +33,10 @@ En la actualidad, el Internet abre una gran infinidad de posibilidades de uso. C
 Es una fuente inagotable de información y datos de primera mano, en donde, se puede encontrar material para cualquier nivel educativo, siendo así, una gran fuente de software educativo.
 
 
+**ALCANCE**
+
+La aplicación móvil será realizada para los sistemas operativos Android e IOS, utilizando el Framework Ionic, presentando la información que ofrece la universidad, además se  contará con un diseño intuitivo y amigable, permitiendo de esta manera que los usuarios accedan fácilmente a la información presentada en la aplicación, se permitirá el registro de aspirantes desde la aplicación, mediante una web transaccional que realizará un CRUD de los datos.
+
 **Requerimiento Funcionales y No Funcinales**
 
 a.	Requerimientos Funcionales
