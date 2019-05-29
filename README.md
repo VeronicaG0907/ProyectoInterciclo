@@ -8,8 +8,7 @@ El objetivo del presente proyecto es crear una aplicación para la difelizacion 
 
  * **Objetivo General**
 
-Diseñar y desarrollar una aplicación que permita fidelizar a jóvenes interesados a cursar una  educación universitaria en la Universidad Politécnica Salesiana exponiendo las diferentes carreras y los principales eventos, además realizar una aplicación web que permita el efectuar un CRUD de los datos.
-
+Diseñar y desarrollar una aplicación que permita fidelizar a jóvenes interesados a cursar una  educación universitaria en la Universidad Politécnica Salesiana, exponiendo las diferentes carreras y los principales eventos, además realizar una aplicación web que permita efectuar un CRUD de los datos.
 
 - **Objetivo Especificos** 
 
