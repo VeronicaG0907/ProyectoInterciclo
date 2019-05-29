@@ -19,6 +19,10 @@ El objetivo del presente proyecto es crear una aplicación para la difelizacion 
 
 **ANTECEDENTES**
 
+En la actualidad, el Internet abre una gran infinidad de posibilidades de uso. Cada día tanto profesores como alumnos utilizan esta conexión de diferentes maneras, tanto en el uso personal como en el profesional, siendo uno de los medios de expansión y obtención de información con mayor impacto a nivel mundial.
+
+Es una fuente inagotable de información y datos de primera mano, en donde, se puede encontrar material para cualquier nivel educativo, siendo así, una gran fuente de software educativo.
+
 
 **Requerimiento Funcionales y No Funcinales**
 
