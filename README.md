@@ -28,8 +28,8 @@ Realizar un CRUD de la información de la aplicación web.
 **ANTECEDENTES**
 
 En la actualidad, el Internet abre una gran infinidad de posibilidades de uso. Cada día tanto profesores como alumnos utilizan esta conexión de diferentes maneras, tanto en el uso personal como en el profesional, siendo uno de los medios de expansión y obtención de información con mayor impacto a nivel mundial.
+Por este motivo se ha pensado en desarrollar una aplicación móvil para el uso de los aspirantes a iniciar una carrera universitaria en la Universidad Politécnica Salesiana, la cual permitirá conocer más acerca de la universidad, las carreras que ofrece y los eventos más importantes que realiza.
 
-Es una fuente inagotable de información y datos de primera mano, en donde, se puede encontrar material para cualquier nivel educativo, siendo así, una gran fuente de software educativo.
 
 
 **ALCANCE**
