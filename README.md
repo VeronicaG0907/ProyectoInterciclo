@@ -45,9 +45,10 @@ RF2: Desde la aplicación se podrá registrar aspirantes o usuarios nuevos.
 
 RF3: La aplicación contará con una pantalla de login
 
-RF4: La aplicación deberá mostrar información de las carreras y de los eventos importantes (expoUPS).
+RF4: La aplicación deberá mostrar información de las carreras y de los eventos importantes (expoUPS
 
-RF6: Contará con una web transaccional en donde se podrán hacer crud de los datos
+RF5: Contará con una web transaccional en donde se podrán hacer crud de los datos
+
 
 
 Requerimientos no Funcionales
