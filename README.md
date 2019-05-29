@@ -58,5 +58,6 @@ RNF2: La aplicación poseerá un diseño que sea agradable a la vista.
 
 RNF3: Deberá ser compatible con el api 28 de android.
 
-Prototipo
-![prototipo](https://user-images.githubusercontent.com/47520065/58437933-caa5fd80-8091-11e9-8088-1b8b1fb076be.png)
+**CRONOGRAMA**
+
+**ASIGNACION DE TAREAS**
