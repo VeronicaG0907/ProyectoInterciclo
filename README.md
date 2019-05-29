@@ -11,10 +11,12 @@ El objetivo del presente proyecto es crear una aplicación para la difelizacion 
  *  El objetivo general de este proyecto es desarrollar una aplicación para dispositivos moviles para brindar informacion a las personas interesadas en estudiar dentro de la universidad. 
 
 - **Objetivo Especificos** 
-
-* Desarrollar una aplicación para que los interesados se registren en la aplicación y obtener informacion de cual sera su posible carrera a seguir. 
-
-* La informacion obtenida sera almaceda para el analisis de los posibles estudiantes que llegaria a tener la universidad. 
+Diseñar un diagrama de clases para la aplicación móvil
+Realizar el prototipo para la aplicación de administración.
+Realizar el prototipo para la aplicación móvil.
+ermitir que los estudiantes se registren desde la aplicación móvil.
+Presentar la  información de la universidad en la aplicación móvil.
+Realizar un CRUD de la información de la aplicación web.
 
 
 **ANTECEDENTES**
