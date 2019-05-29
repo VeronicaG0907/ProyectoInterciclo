@@ -38,6 +38,7 @@ La aplicación móvil será realizada para los sistemas operativos Android e IOS
 **Requerimiento Funcionales y No Funcinales**
 
 Requerimientos Funcionales
+
 RF1: El sistema contará con una web transaccional y una aplicación móvil
 
 RF2: Desde la aplicación se podrá registrar aspirantes o usuarios nuevos.
