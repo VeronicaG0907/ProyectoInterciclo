@@ -13,6 +13,7 @@ La aplicación sera desarrollada en el framework IONIC para todos los dispositiv
 
 Diseñar y desarrollar una aplicación que permita fidelizar a jóvenes interesados a cursar su educación universitaria en la Universidad Politécnica Salesiana, exponiendo las diferentes carreras y los principales eventos, además realizar una aplicación web que permita efectuar la creación y mantenimiento de la información.
 
+
 - **Objetivo Especificos** 
 
 Diseñar un diagrama de clases para la aplicación móvil.
