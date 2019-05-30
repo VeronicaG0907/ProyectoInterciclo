@@ -9,22 +9,18 @@ El objetivo del presente proyecto es crear una aplicación para la fidelización
 
  * **Objetivo General**
 
-Diseñar y desarrollar una aplicación que permita fidelizar a jóvenes interesados a cursar su educación universitaria en la Universidad Politécnica Salesiana, exponiendo las diferentes carreras y los principales eventos, además realizar una aplicación web que permita efectuar la creación y mantenimiento de la información.
+Diseñar y desarrollar una aplicación que permita fidelizar a jóvenes interesados a cursar su educación universitaria en la Universidad Politécnica Salesiana, exponiendo las diferentes carreras y los principales eventos
 
 
 - **Objetivo Especificos** 
 
-Diseñar un diagrama de clases para la aplicación móvil.
 
-Realizar el prototipo para la aplicación de administración.
+Presentar informacion a los interesados en la Universidad
 
-Realizar el prototipo para la aplicación móvil.
+Diseñar una aplicacion movil de facil uso para los usuarios
 
-Permitir que los estudiantes se registren desde la aplicación móvil.
+Cambiar el modo de matriculacion
 
-Presentar la  información de la universidad en la aplicación móvil.
-
-Crear y administrar información en la aplicación web.
 
 
 **ANTECEDENTES**
