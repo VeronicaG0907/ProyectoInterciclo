@@ -2,9 +2,7 @@
 
 **INTRODUCCION** 
 
-El objetivo del presente proyecto es crear una aplicación para la difelización de jovenes interesados en la Educación Universitaria con el fin de que los aspirantes se interesen por estudiar dentro de la Universidad Politécnica Salesiana.
-Para llevar a cabo este objetivo se implementará dentro de la aplicación información a todas las personas que utilizen la misma para que tengan acceso a la información de todas las carreras que oferta la universidad y posteriormente se pueda formalizar su matricula.
-La aplicación sera desarrollada en el framework IONIC para todos los dispositivos moviles. Con el fin de brindar a los aspirantes una plataforma accesible para su información. Todos los datos serán guardados en una base de datos postgreSQL para obtener información de los posibles aspirantes que puede llegar a tener la universidad. 
+El objetivo del presente proyecto es crear una aplicación para la fidelización de jóvenes interesados en iniciar la educación universitaria dentro de la Universidad Politécnica Salesiana, para llevar a cabo este objetivo se implementará dentro de la aplicación información a todos las personas que utilicen la misma para que tengan acceso a todas las carreras que ofrece la universidad y posteriormente puedan formalizar su matrícula. La aplicación será desarrollada en IONIC para todos los dispositivos móviles, con el fin de brindar a los aspirantes una plataforma accesible para su información. Todos los datos serán almacenados en una base de datos PostgreSQL para obtener información de los posibles aspirantes que llegara a tener la universidad.
 
 
 **OBJETIVOS**
