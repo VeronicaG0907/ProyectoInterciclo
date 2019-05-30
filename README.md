@@ -67,3 +67,13 @@ RNF3: Deberá ser compatible con el api 28 de android.
 
 **STORYBOARD APLICACION MOVIL**
 [StoryBoardAPP.pdf](https://github.com/VeronicaG0907/ProyectoInterciclo/files/3234300/StoryBoardAPP.pdf)
+
+**Definición y Justificación de la Línea Gráfica:**
+
+En la parte gráfica del proyecto, se enfocaría como prioridad implantar el nuevo isologo conjuntamente slogan de la institución, en cuanto a la cromática a utilizar en base a los colores corporativos de la institución, para lo cual se parte de la conceptualización de la psicología del color como base y la significancia de cada uno de ellos siendo así: 
+
+Azul: expresa seguridad, constancia, profesionalismo, conocimiento, seriedad y confianza.
+
+Amarillo: expresa relajación, optimismo, creatividad y dinamismo. 
+
+En cuanto a la tipografía se opta por seleccionar una de fácil lectura, legible, sencilla, para lo cual se emplea una tipografía de palo seco, estructura sólida y formas bien definidas. Además, con la justificación al tratarse de una aplicación móvil, lo recomendable para la visibilidad y fácil comprensión es esta caracterización de tipografía.
