@@ -53,7 +53,7 @@ RF5: Contará con una web transaccional en donde se podrán hacer crud de los da
 
 
 
-Requerimientos no Funcionales
+Requerimientos No Funcionales
 
 RNF1: La aplicación debe tener un manejo intuitivo
 
@@ -67,6 +67,7 @@ RNF3: Deberá ser compatible con el api 28 de android.
 
 
 **STORYBOARD APLICACION MOVIL**
+
 [StoryBoardAPP.pdf](https://github.com/VeronicaG0907/ProyectoInterciclo/files/3234300/StoryBoardAPP.pdf)
 
 **DEFINICIÓN Y JUSTIFICACIÓN DE LA LÍNEA GRÁFICA:**
