@@ -6,6 +6,7 @@ El objetivo del presente proyecto es crear una aplicación para la difelización
 Para llevar a cabo este objetivo se implementará dentro de la aplicación información a todas las personas que utilizen la misma para que tengan acceso a la información de todas las carreras que oferta la universidad y posteriormente se pueda formalizar su matricula.
 La aplicación sera desarrollada en el framework IONIC para todos los dispositivos moviles. Con el fin de brindar a los aspirantes una plataforma accesible para su información. Todos los datos serán guardados en una base de datos postgreSQL para obtener información de los posibles aspirantes que puede llegar a tener la universidad. 
 
+
 **OBJETIVOS**
 
  * **Objetivo General**
