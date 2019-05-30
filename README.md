@@ -55,7 +55,7 @@ RF5: Contará con una web transaccional en donde se podrán hacer crud de los da
 
 
 
-Requerimientos No Funcionales
+**Requerimientos No Funcionales**
 
 RNF1: La aplicación debe tener un manejo intuitivo
 
