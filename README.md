@@ -79,7 +79,7 @@ RNF3: Deberá ser compatible con el api 28 de android.
 
 En la parte gráfica del proyecto, se enfocaría como prioridad implantar el nuevo isologo conjuntamente slogan de la institución, en cuanto a la cromática a utilizar en base a los colores corporativos de la institución, para lo cual se parte de la conceptualización de la psicología del color como base y la significancia de cada uno de ellos siendo así: 
 
-Azul: expresa seguridad, constancia, profesionalismo, conocimiento, seriedad y confianza.
+**Azul:** expresa seguridad, constancia, profesionalismo, conocimiento, seriedad y confianza.
 
 Amarillo: expresa relajación, optimismo, creatividad y dinamismo. 
 
