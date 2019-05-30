@@ -69,8 +69,8 @@ RNF3: Deberá ser compatible con el api 28 de android.
 ![alt tag](https://github.com/VeronicaG0907/ProyectoInterciclo/blob/master/cronograma.PNG)
 
 
-**DIAGRAMA DE CLASES **
- 
+**DIAGRAMA DE CLASES**
+
 ![diagrama](https://user-images.githubusercontent.com/47520065/58612743-3ac2a800-8279-11e9-80cb-f056ddc7fdd4.JPG)
 
 
