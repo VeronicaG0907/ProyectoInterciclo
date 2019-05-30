@@ -68,7 +68,7 @@ RNF3: Deberá ser compatible con el api 28 de android.
 **STORYBOARD APLICACION MOVIL**
 [StoryBoardAPP.pdf](https://github.com/VeronicaG0907/ProyectoInterciclo/files/3234300/StoryBoardAPP.pdf)
 
-**Definición y Justificación de la Línea Gráfica:**
+**DEFINICIÓN Y JUSTIFICACIÓN DE LA LÍNEA GRÁFICA:**
 
 En la parte gráfica del proyecto, se enfocaría como prioridad implantar el nuevo isologo conjuntamente slogan de la institución, en cuanto a la cromática a utilizar en base a los colores corporativos de la institución, para lo cual se parte de la conceptualización de la psicología del color como base y la significancia de cada uno de ellos siendo así: 
 
