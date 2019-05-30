@@ -63,6 +63,10 @@ RNF3: Deberá ser compatible con el api 28 de android.
 
 **CRONOGRAMA**
 
+![alt tag](https://github.com/VeronicaG0907/ProyectoInterciclo/blob/master/cronograma.PNG)
+
+
+
 **ASIGNACION DE TAREAS**
 
 **STORYBOARD APLICACION MOVIL**
