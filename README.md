@@ -43,6 +43,7 @@ La aplicación móvil será realizada para los sistemas operativos Android e IOS
 
 **Requerimientos Funcionales**
 
+
 RF1: El sistema contará con una web transaccional y una aplicación móvil
 
 RF2: Desde la aplicación se podrá registrar aspirantes o usuarios nuevos.
@@ -57,11 +58,13 @@ RF5: Contará con una web transaccional en donde se podrán hacer crud de los da
 
 **Requerimientos No Funcionales**
 
+
 RNF1: La aplicación debe tener un manejo intuitivo
 
 RNF2: La aplicación poseerá un diseño que sea agradable a la vista.
 
 RNF3: Deberá ser compatible con el api 28 de android.
+
 
 **CRONOGRAMA**
 
