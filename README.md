@@ -41,7 +41,7 @@ La aplicación móvil será realizada para los sistemas operativos Android e IOS
 
 **Requerimiento Funcionales y No Funcinales**
 
-Requerimientos Funcionales
+**Requerimientos Funcionales**
 
 RF1: El sistema contará con una web transaccional y una aplicación móvil
 
