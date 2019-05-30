@@ -2,27 +2,29 @@
 
 **INTRODUCCION** 
 
-El objetivo del presente proyecto es crear una aplicación para la difelizacion de jovenes interesados en la educacion universitaria con el fin de que los aspirantes esten interesados estudiar dentro de la Universidad Politecnica Salesiana, Para llevar a cabo este objetivo se implementara dentro de la aplicación informacion a todos las personas que utilizen la misma para que tengan acceso a todas las carreras que brinda la universidad y posteriormente puedan formalizar su matricula. La aplicación sera desarrollada en IONIC para todos los dispositivos moviles. Con el fin de brindar a los aspirantes una plataforma accesible para su informacion. Todos los datos seran guardados en una base de datos para obtener informacion de los posibles aspirantes que llegara a tener la universidad. 
+El objetivo del presente proyecto es crear una aplicación para la difelización de jovenes interesados en la Educación Universitaria con el fin de que los aspirantes se interesen por estudiar dentro de la Universidad Politécnica Salesiana.
+Para llevar a cabo este objetivo se implementará dentro de la aplicación información a todas las personas que utilizen la misma para que tengan acceso a la información de todas las carreras que oferta la universidad y posteriormente se pueda formalizar su matricula.
+La aplicación sera desarrollada en el framework IONIC para todos los dispositivos moviles. Con el fin de brindar a los aspirantes una plataforma accesible para su información. Todos los datos serán guardados en una base de datos postgreSQL para obtener información de los posibles aspirantes que puede llegar a tener la universidad. 
 
 **OBJETIVOS**
 
  * **Objetivo General**
 
-Diseñar y desarrollar una aplicación que permita fidelizar a jóvenes interesados a cursar una  educación universitaria en la Universidad Politécnica Salesiana, exponiendo las diferentes carreras y los principales eventos, además realizar una aplicación web que permita efectuar un CRUD de los datos.
+Diseñar y desarrollar una aplicación que permita fidelizar a jóvenes interesados a cursar su educación universitaria en la Universidad Politécnica Salesiana, exponiendo las diferentes carreras y los principales eventos, además realizar una aplicación web que permita efectuar la creación y mantenimiento de la información.
 
 - **Objetivo Especificos** 
 
-Diseñar un diagrama de clases para la aplicación móvil
+Diseñar un diagrama de clases para la aplicación móvil.
 
 Realizar el prototipo para la aplicación de administración.
 
 Realizar el prototipo para la aplicación móvil.
 
-ermitir que los estudiantes se registren desde la aplicación móvil.
+Permitir que los estudiantes se registren desde la aplicación móvil.
 
 Presentar la  información de la universidad en la aplicación móvil.
 
-Realizar un CRUD de la información de la aplicación web.
+Crear y administrar información en la aplicación web.
 
 
 **ANTECEDENTES**
