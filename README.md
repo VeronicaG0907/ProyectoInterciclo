@@ -33,23 +33,32 @@ Por ese motivo se ha pensado en desarrollar una aplicación móvil para el uso d
 
 La aplicación móvil será realizada para los sistemas operativos Android e IOS, utilizando el Framework Ionic, presentando la información que ofrece la universidad, además se  contará con un diseño intuitivo y amigable, permitiendo de esta manera que los usuarios accedan fácilmente a la información presentada en la aplicación, se permitirá el registro de aspirantes desde la aplicación, mediante una web transaccional que realizará un CRUD de los datos. 
 
-**Requerimiento Funcionales y No Funcionales
+**Requerimiento Funcionales y No Funcionales**
 
 **Requerimientos Funcionales**
 
 RF1: La aplicación permitirá iniciar sesión.
+
 RF2 : Permitirá registrar los intereses del aspirante.
+
 RF3 : La aplicación recibirá un push notification indicando el evento a realizarse de acuerdo al interés ingresado.
+
 RF4: Desde la aplicación se podrá registrar aspirantes o usuarios nuevos.
+
 RF5: La aplicación deberá mostrar información de las carreras y de los eventos importantes (expoUPS).
+
 RF6: Contará con una web transaccional en donde se podrán hacer los CRUD de los datos.
+
 RF7: Desde la web se enviarán notificaciones de las actividades a los aspirantes que hayan indicado que les interesa las carreras a las cuales pertenece la actividad.
 
 **Requerimientos No Funcionales**
 
 RNF1: El sistema contará con una web transaccional y una aplicación móvil.  
+
 RNF2: La aplicación debe tener un manejo intuitivo.
-RNF3: La aplicación poseerá un diseño que sea agradable a la vista. 
+
+RNF3: La aplicación poseerá un diseño que sea agradable a la vista.
+
 RNF4: Deberá ser compatible con el api 28 de android.
 
 **CRONOGRAMA**
