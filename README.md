@@ -71,7 +71,7 @@ RNF4: Deberá ser compatible con el api 28 de android.
 ![diagrama](https://user-images.githubusercontent.com/47520065/58612743-3ac2a800-8279-11e9-80cb-f056ddc7fdd4.JPG)
 
 
-** STORYBOAD  DE APLICAION  MOVIL Y ADMINSTRATIVA **
+STORYBOARD  APLICACION MOVIL
 
 
 
