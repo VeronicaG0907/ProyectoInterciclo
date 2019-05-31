@@ -12,7 +12,7 @@
 
 
     <ui:define name="content">
-        <h1>UNIVERSIDAD POLITECNICA SALESIANA</h1>
+        <h1>PROYECTO INTERCICLO</h1>
 
         <div>
 
@@ -21,7 +21,7 @@
         <h:form id="reg">
             <h2>Registro</h2>
             <p> </p>
-            <h:panelGrid columns="3" columnClasses="titleCell">
+            <h:panelGrid  columns="3" columnClasses="titleCell">
                 <h:outputLabel for="name" value="Nombre:" />
                 <h:inputText id="name" value="#{newMember.name}" />
                 <h:message for="name" errorClass="invalid" />
@@ -40,7 +40,7 @@
                 <h:panelGrid columns="2">
                     <h:commandButton id="register"
                         action="#{memberController.register}"
-                        value="Register" styleClass="register" />
+                        value="Registrar" styleClass="register" />
                     <h:messages styleClass="messages"
                         errorClass="invalid" infoClass="valid"
                         warnClass="warning" globalOnly="true" />
