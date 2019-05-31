@@ -35,21 +35,26 @@ La aplicación móvil será realizada para los sistemas operativos Android e IOS
 
 **Requerimiento Funcionales y No Funcinales**
 
-**Requerimientos Funcionales**
-**Requerimientos No Funcionales**
+**Requerimientos Funcionales **
 
-
-
-RNF1: La aplicación debe tener un manejo intuitivo
-
-RNF2: La aplicación poseerá un diseño que sea agradable a la vista.
-
-RNF3: Deberá ser compatible con el api 28 de android.
-
+RF1: La aplicación permitirá iniciar sesión.
+RF2 : Permitirá registrar los intereses del aspirante.
+RF3 : La aplicación recibirá un push notification indicando el evento a realizarse de acuerdo al interés ingresado.
+RF4: Desde la aplicación se podrá registrar aspirantes o usuarios nuevos.
+RF5: La aplicación deberá mostrar información de las carreras y de los eventos importantes (expoUPS).
+RF6: Contará con una web transaccional en donde se podrán hacer los CRUD de los datos.
+RF7: Desde la web se enviarán notificaciones de las actividades a los aspirantes que hayan indicado que les interesa las carreras a las cuales pertenece la actividad.
 
 **CRONOGRAMA**
 
 ![alt tag](https://github.com/VeronicaG0907/ProyectoInterciclo/blob/master/cronograma.PNG)
+RF1: La aplicación permitirá iniciar sesión.
+RF2 : Permitirá registrar los intereses del aspirante.
+RF3 : La aplicación recibirá un push notification indicando el evento a realizarse de acuerdo al interés ingresado.
+RF4: Desde la aplicación se podrá registrar aspirantes o usuarios nuevos.
+RF5: La aplicación deberá mostrar información de las carreras y de los eventos importantes (expoUPS).
+RF6: Contará con una web transaccional en donde se podrán hacer los CRUD de los datos.
+RF7: Desde la web se enviarán notificaciones de las actividades a los aspirantes que hayan indicado que les interesa las carreras a las cuales pertenece la actividad.
 
 
 **DIAGRAMA DE CLASES**
