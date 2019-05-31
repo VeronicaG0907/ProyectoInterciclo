@@ -15,12 +15,11 @@
         <h1>UNIVERSIDAD POLITECNICA SALESIANA</h1>
 
         <div>
-            <p>Una decisión con visión.</p>
-            <img src="resources/gfx/upslogo.png" />
+
         </div>
 
         <h:form id="reg">
-            <h2>Ventana de Registro</h2>
+            <h2>Registro</h2>
             <p> </p>
             <h:panelGrid columns="3" columnClasses="titleCell">
                 <h:outputLabel for="name" value="Nombre:" />
@@ -48,38 +47,6 @@
                 </h:panelGrid>
             </p>
         </h:form>
-        <h2>Tablas</h2>
-        <h:panelGroup rendered="#{empty members}">
-            <em>No registered members.</em>
-        </h:panelGroup>
-        <h:dataTable var="_member" value="#{members}"
-            rendered="#{not empty members}"
-            styleClass="simpletablestyle">
-            <h:column>
-                <f:facet name="header">Id</f:facet>
-                #{_member.id}
-            </h:column>
-            <h:column>
-                <f:facet name="header">Nombre</f:facet>
-                #{_member.name}
-            </h:column>
-            <h:column>
-                <f:facet name="header">Email</f:facet>
-                #{_member.email}
-            </h:column>
-            <h:column>
-                <f:facet name="header">Celular</f:facet>
-                #{_member.phoneNumber}
-            </h:column>
-            <h:column>
-                <f:facet name="header">REST URL</f:facet>
-                <a
-                    href="#{request.contextPath}/rest/members/#{_member.id}">/rest/members/#{_member.id}</a>
-            </h:column>
-            <f:facet name="footer">
-            REST URL for all members: <a
-                    href="#{request.contextPath}/rest/members">/rest/members</a>
-            </f:facet>
-        </h:dataTable>
-    </ui:define>
+   
+            </ui:define>
 </ui:composition>
