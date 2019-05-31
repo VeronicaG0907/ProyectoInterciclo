@@ -64,13 +64,6 @@ RNF4: Deberá ser compatible con el api 28 de android.
 **CRONOGRAMA**
 
 ![alt tag](https://github.com/VeronicaG0907/ProyectoInterciclo/blob/master/cronograma.PNG)
-RF1: La aplicación permitirá iniciar sesión.
-RF2 : Permitirá registrar los intereses del aspirante.
-RF3 : La aplicación recibirá un push notification indicando el evento a realizarse de acuerdo al interés ingresado.
-RF4: Desde la aplicación se podrá registrar aspirantes o usuarios nuevos.
-RF5: La aplicación deberá mostrar información de las carreras y de los eventos importantes (expoUPS).
-RF6: Contará con una web transaccional en donde se podrán hacer los CRUD de los datos.
-RF7: Desde la web se enviarán notificaciones de las actividades a los aspirantes que hayan indicado que les interesa las carreras a las cuales pertenece la actividad.
 
 
 **DIAGRAMA DE CLASES**
