@@ -1,6 +1,6 @@
 package ec.ups.edu.Modelo;
 
-public class persona {
+public class aspirante {
 	
 	private String cedula;
 	private String nombre;

@@ -25,56 +25,58 @@ Cambiar el modo de matriculacion
 
 **ANTECEDENTES**
 
-En la actualidad, el Internet abre una gran infinidad de posibilidades de uso. Cada día tanto profesores como alumnos utilizan esta conexión de diferentes maneras, tanto en el uso personal como en el profesional, siendo uno de los medios de expansión y obtención de información con mayor impacto a nivel mundial.
-Por ese motivo se ha pensado en desarrollar una aplicación móvil para el uso de los aspirantes a iniciar una carrera universitaria en la Universidad Politécnica Salesiana, la cual permitirá conocer más acerca de la universidad, las carreras que ofrece y los eventos más importantes que realiza.
+Con la creacion de la apliaccion movil lo que se va a llegar a tener es la informacion de los nuevos aspirantes e interesados en las carreras ofertadas dentrode de la universidad, para ello se llevara a cabo una encuesta que estara al inicio de la aplicacion y poder manejar los datos y saber que informacion presentar acerca de las opciones academicas brindadas por la universidad. Tambien existira la opcion de matriculacion para los estudiantes pertenecientes a la universidad esto con fin de ahorrar tiempo y eliminar que las matriculas sean presenciales. La aplicacion movil tiene como puntos de referencia la aplicacion diseñada en la Universidad de Guayaquil debido a que tienen una base muy similar a la que se desea implementar dentro de la Universidad Politecnica Salesiana. 
 
 
 **ALCANCE**
 
-La aplicación móvil será realizada para los sistemas operativos Android e IOS, utilizando el Framework Ionic, presentando la información que ofrece la universidad, además se  contará con un diseño intuitivo y amigable, permitiendo de esta manera que los usuarios accedan fácilmente a la información presentada en la aplicación, se permitirá el registro de aspirantes desde la aplicación, mediante una web transaccional que realizará un CRUD de los datos. 
+La aplicación móvil será realizada para los sistemas operativos Android e IOS, utilizando el Framework Ionic, presentando la información que ofrece la universidad, además se  contará con un diseño intuitivo y amigable, permitiendo de esta manera que los usuarios accedan fácilmente a la información presentada en la aplicación, se permitirá el registro de aspirantes desde la aplicación.
 
-**Requerimiento Funcionales y No Funcinales**
+**Requerimiento Funcionales y No Funcionales**
 
 **Requerimientos Funcionales**
 
+RF1: La aplicación permitirá iniciar sesión.
 
-RF1: El sistema contará con una web transaccional y una aplicación móvil
+RF2 : Permitirá registrar los intereses del aspirante.
 
-RF2: Desde la aplicación se podrá registrar aspirantes o usuarios nuevos.
+RF3 : La aplicación recibirá un push notification indicando el evento a realizarse de acuerdo al interés ingresado.
 
-RF3: La aplicación contará con una pantalla de login
+RF4: Desde la aplicación se podrá registrar aspirantes o usuarios nuevos.
 
-RF4: La aplicación deberá mostrar información de las carreras y de los eventos importantes (expoUPS
+RF5: La aplicación deberá mostrar información de las carreras y de los eventos importantes (expoUPS).
 
-RF5: Contará con una web transaccional en donde se podrán hacer crud de los datos
+RF6: Contará con una web transaccional en donde se podrán hacer los CRUD de los datos.
 
-
+RF7: Desde la web se enviarán notificaciones de las actividades a los aspirantes que hayan indicado que les interesa las carreras a las cuales pertenece la actividad. 
 
 **Requerimientos No Funcionales**
 
+RNF1: El sistema contará con una web transaccional y una aplicación móvil.  
 
-RNF1: La aplicación debe tener un manejo intuitivo
+RNF2: La aplicación debe tener un manejo intuitivo.
 
-RNF2: La aplicación poseerá un diseño que sea agradable a la vista.
+RNF3: La aplicación poseerá un diseño que sea agradable a la vista.
 
-RNF3: Deberá ser compatible con el api 28 de android.
-
+RNF4: Deberá ser compatible con el api 28 de android.
 
 **CRONOGRAMA**
 
-![alt tag](https://github.com/VeronicaG0907/ProyectoInterciclo/blob/master/cronograma.PNG)
+![alt tag](https://github.com/VeronicaG0907/ProyectoInterciclo/blob/master/cronograma1.png)
 
 
 **DIAGRAMA DE CLASES**
 
-![diagrama](https://user-images.githubusercontent.com/47520065/58612743-3ac2a800-8279-11e9-80cb-f056ddc7fdd4.JPG)
+![diagrama](https://user-images.githubusercontent.com/47520065/58743534-e7776380-83f8-11e9-91f6-a1fa01c932b6.JPG)
 
 
-** STORYBOAD  DE APLICAION  MOVIL Y ADMINSTRATIVA 
+**STORYBOARD APLICACION MOVIL**
 
-[StoryBoardAPP.pdf](https://github.com/VeronicaG0907/ProyectoInterciclo/files/3234300/StoryBoardAPP.pdf)
+[Prototipo.pdf](https://github.com/VeronicaG0907/ProyectoInterciclo/files/3243350/Prototipo.pdf)
 
-[StoryBoardAdministracion.pdf](https://github.com/VeronicaG0907/ProyectoInterciclo/files/3235671/StoryBoardAdministracion.pdf)
+
+(https://github.com/VeronicaG0907/ProyectoInterciclo/files/3243498/PropitocaWeb.pdf)
+
 
 **DEFINICIÓN Y JUSTIFICACIÓN DE LA LÍNEA GRÁFICA:**
 
@@ -84,4 +86,4 @@ En la parte gráfica del proyecto, se enfocaría como prioridad implantar el nue
 
 **Amarillo:** expresa relajación, optimismo, creatividad y dinamismo. 
 
-En cuanto a la tipografía se opta por seleccionar una de fácil lectura, legible, sencilla, para lo cual se emplea una tipografía de palo seco, estructura sólida y formas bien definidas. Además, con la justificación al tratarse de una aplicación móvil, lo recomendable para la visibilidad y fácil comprensión es esta caracterización de tipografía.
+En cuanto a la tipografía se opta por seleccionar una de fácil lectura, legible, sencilla, para lo cual se emplea una tipografía de palo seco, estructura sólida y formas bien definidas. Además, con la justificación al tratarse de una aplicación móvil, lo recomendable para la visibilidad y fácil comprensión es esta caracterización de tipografía. 
