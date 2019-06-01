@@ -48,7 +48,7 @@ RF5: La aplicación deberá mostrar información de las carreras y de los evento
 
 RF6: Contará con una web transaccional en donde se podrán hacer los CRUD de los datos.
 
-RF7: Desde la web se enviarán notificaciones de las actividades a los aspirantes que hayan indicado que les interesa las carreras a las cuales pertenece la actividad.
+RF7: Desde la web se enviarán notificaciones de las actividades a los aspirantes que hayan indicado que les interesa las carreras a las cuales pertenece la actividad. 
 
 **Requerimientos No Funcionales**
 
