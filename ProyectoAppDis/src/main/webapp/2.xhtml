@@ -7,6 +7,60 @@
       >
 
 	<ui:composition template="/WEB-INF/templates/default.xhtml">
+	
+	
+	
+	<ui:define name="content">
+        <h1>PROYECTO INTERCICLO</h1>
+
+        <div>
+
+        </div>
+
+        <section class="page-section cta" >
+        
+        <center>
+	<img class="intro-img img-fluid mb-3 mb-lg-0 rounded" src="resources/images/est.png" alt="" style="width:50%;max-width:200px"/>
+	</center>
+        
+	
+	<p align="center"><i><font face="times, serif" size="10">
+ASPIRANTE
+</font></i></p>
+	<center>
+	<h:form>
+	<h:panelGrid columns =  "12">
+	<h:outputLabel value="CEDULA" />
+	<h:inputText value="#" id = "cedula" /> <br />
+	<h:message for="cedula"/>
+	<h:outputLabel value="NOMBRE" />
+	<h:inputText value="#}" id = "nombre" /> <br />
+	<h:message for="nombre"/>
+	<h:outputLabel value="TELEFONO" />
+	<h:inputText value="#" id = "telefono" /> <br />
+	<h:message for="telefono"/>
+	<h:outputLabel value="DIRECCION" />
+	<h:inputText value="#" id = "direccion" /> <br />
+	<h:message for="direccion"/>
+	<h:outputLabel value="USUARIO" />
+	<h:inputText value="#" id = "usuario" /> <br />
+	<h:message for="usuario"/>
+	<h:outputLabel value="CLAVE" />
+	<h:inputText value="#" id = "clave" /> <br />
+	<h:message for="clave"/>
+	
+	</h:panelGrid>
+	
+	<h:inputHidden value="#{clienteBean.editar}" />
+     <h:commandButton action="#{clienteBean.agregarCliente()}" value="AGREGAR ASPIRANTE" />
+     <h:messages globalOnly="true"/>
+	</h:form>
+	</center>
+</section>
+        
+           
+            </ui:define>
+	
 	</ui:composition>
 	
 </html>
