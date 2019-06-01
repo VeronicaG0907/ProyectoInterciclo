@@ -71,7 +71,6 @@ RNF4: Deberá ser compatible con el api 28 de android.
 
 **STORYBOARD APLICACION MOVIL**
 
-[Prototipo1.pdf](https://github.com/VeronicaG0907/ProyectoInterciclo/files/3242864/Prototipo1.pdf)
 
 
 **DEFINICIÓN Y JUSTIFICACIÓN DE LA LÍNEA GRÁFICA:**
