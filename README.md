@@ -25,8 +25,7 @@ Cambiar el modo de matriculacion
 
 **ANTECEDENTES**
 
-En la actualidad, el Internet abre una gran infinidad de posibilidades de uso. Cada día tanto profesores como alumnos utilizan esta conexión de diferentes maneras, tanto en el uso personal como en el profesional, siendo uno de los medios de expansión y obtención de información con mayor impacto a nivel mundial.
-Por ese motivo se ha pensado en desarrollar una aplicación móvil para el uso de los aspirantes a iniciar una carrera universitaria en la Universidad Politécnica Salesiana, la cual permitirá conocer más acerca de la universidad, las carreras que ofrece y los eventos más importantes que realiza.
+Con la creacion de la apliaccion movil lo que se va a llegar a tener es la informacion de los nuevos aspirantes e interesados en las carreras ofertadas dentrode de la universidad, para ello se llevara a cabo una encuesta que estara al inicio de la aplicacion y poder manejar los datos y saber que informacion presentar acerca de las opciones academicas brindadas por la universidad. Tambien existira la opcion de matriculacion para los estudiantes pertenecientes a la universidad esto con fin de ahorrar tiempo y eliminar que las matriculas sean presenciales. La aplicacion movil tiene como puntos de referencia la aplicacion diseñada en la Universidad de Guayaquil debido a que tienen una base muy similar a la que se desea implementar dentro de la Universidad Politecnica Salesiana. 
 
 
 **ALCANCE**
