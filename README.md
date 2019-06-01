@@ -75,7 +75,7 @@ RNF4: Deberá ser compatible con el api 28 de android.
 [Prototipo.pdf](https://github.com/VeronicaG0907/ProyectoInterciclo/files/3243350/Prototipo.pdf)
 
 
-(https://github.com/VeronicaG0907/ProyectoInterciclo/files/3243482/prototipoweb.pdf)
+(https://github.com/VeronicaG0907/ProyectoInterciclo/files/3243498/PropitocaWeb.pdf)
 
 
 **DEFINICIÓN Y JUSTIFICACIÓN DE LA LÍNEA GRÁFICA:**
