@@ -67,7 +67,8 @@ RNF4: Deberá ser compatible con el api 28 de android.
 
 **DIAGRAMA DE CLASES**
 
-![diagrama](https://user-images.githubusercontent.com/47520065/58612743-3ac2a800-8279-11e9-80cb-f056ddc7fdd4.JPG)
+![diagrama](https://user-images.githubusercontent.com/47520065/58743534-e7776380-83f8-11e9-91f6-a1fa01c932b6.JPG)
+
 
 **STORYBOARD APLICACION MOVIL**
 
