@@ -30,7 +30,7 @@ Con la creacion de la apliaccion movil lo que se va a llegar a tener es la infor
 
 **ALCANCE**
 
-La aplicación móvil será realizada para los sistemas operativos Android e IOS, utilizando el Framework Ionic, presentando la información que ofrece la universidad, además se  contará con un diseño intuitivo y amigable, permitiendo de esta manera que los usuarios accedan fácilmente a la información presentada en la aplicación, se permitirá el registro de aspirantes desde la aplicación, mediante una web transaccional que realizará un CRUD de los datos. 
+La aplicación móvil será realizada para los sistemas operativos Android e IOS, utilizando el Framework Ionic, presentando la información que ofrece la universidad, además se  contará con un diseño intuitivo y amigable, permitiendo de esta manera que los usuarios accedan fácilmente a la información presentada en la aplicación, se permitirá el registro de aspirantes desde la aplicación.
 
 **Requerimiento Funcionales y No Funcionales**
 
