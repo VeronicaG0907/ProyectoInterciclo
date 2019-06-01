@@ -19,33 +19,31 @@
         </div>
 
         <h:form id="reg">
-            <h2>Registro</h2>
+        <center>
+            <h2>LOGIN</h2>
             <p> </p>
+            
             <h:panelGrid  columns="3" columnClasses="titleCell">
                 <h:outputLabel for="name" value="Nombre:" />
-                <h:inputText id="name" value="#{newMember.name}" />
+                <h:inputText id="name" value="#" />
                 <h:message for="name" errorClass="invalid" />
 
-                <h:outputLabel for="email" value="Email:" />
-                <h:inputText id="email" value="#{newMember.email}" />
-                <h:message for="email" errorClass="invalid" />
+                <h:outputLabel for="email" value="Contraseña:" />
+                <h:inputText id="email" value="#" />
+                
 
-                <h:outputLabel for="phoneNumber" value="Celular:" />
-                <h:inputText id="phoneNumber"
-                    value="#{newMember.phoneNumber}" />
-                <h:message for="phoneNumber" errorClass="invalid" />
-            </h:panelGrid>
+                            </h:panelGrid>
 
+            
             <p>
                 <h:panelGrid columns="2">
-                    <h:commandButton id="register"
-                        action="#{memberController.register}"
-                        value="Registrar" styleClass="register" />
-                    <h:messages styleClass="messages"
-                        errorClass="invalid" infoClass="valid"
-                        warnClass="warning" globalOnly="true" />
+                    <h:commandButton 
+                        action="2.xhtml"
+                        value="INGRESAR"  />
+                  
                 </h:panelGrid>
             </p>
+            </center>
         </h:form>
    
             </ui:define>
