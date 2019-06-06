@@ -15,7 +15,7 @@ Diseñar y desarrollar una aplicación que permita fidelizar a jóvenes interesa
 - **Objetivo Especificos** 
 
 
-Presentar informacion a los interesados en la Universidad
+Presentar información a los interesados en la Universidad
 
 Diseñar una aplicación móvil de fácil uso para los usuarios
 
@@ -25,7 +25,7 @@ Cambiar el modo de matriculación
 
 **ANTECEDENTES**
 
-Con la creación de la apliación móvil lo que se va a llegar a tener es la información de los nuevos aspirantes e interesados en las carreras ofertadas dentro de de la universidad, para ello se llevará a cabo una encuesta que estará al inicio de la aplicación y poder manejar los datos y saber qué información presentar acerca de las opciones académicas brindadas por la universidad. Tambien existira la opcion de matriculacion para los estudiantes pertenecientes a la universidad esto con fin de ahorrar tiempo y eliminar que las matriculas sean presenciales. La aplicacion movil tiene como puntos de referencia la aplicacion diseñada en la Universidad de Guayaquil debido a que tienen una base muy similar a la que se desea implementar dentro de la Universidad Politecnica Salesiana. 
+Con la creación de la apliación móvil lo que se va a llegar a tener es la información de los nuevos aspirantes e interesados en las carreras ofertadas dentro de de la universidad, para ello se llevará a cabo una encuesta que estará al inicio de la aplicación y poder manejar los datos y saber qué información presentar acerca de las opciones académicas brindadas por la universidad. Tambien existirá la opción de matriculación para los estudiantes pertenecientes a la universidad, con fin de ahorrar tiempo y eliminar que las matriculas sean presenciales. La aplicación móvil tiene como puntos de referencia la aplicación diseñada en la Universidad de Guayaquil debido a que tienen una base muy similar a la que se desea implementar dentro de la Universidad Politécnica Salesiana. 
 
 
 **ALCANCE**
