@@ -48,11 +48,11 @@ RF5: Al seleccionar “Iniciar Sesión” se mostrará un menú que consta de �
 
 RF6: Al seleccionar en “Carreras” se visualizará una lista de todas carreras que se ofertan en la universidad.
 
-RF7: Al seleccionar cualquier carrera, se desplegará una ventana con las descripciones de la misma.
+RF7: Al seleccionar cualquier carrera, se desplegará una ventana con las descripciones de esta.
 
-RF8: Al seleccionar “Eventos”, se presentará cada uno de los eventos que se realizan dentro de la universidad, al dar click en un evento, se presentará una breve descripción del mismo.
+RF8: Al seleccionar “Eventos”, se presentará cada uno de los eventos que se realizan dentro de la universidad, al dar click en un evento, se presentará una breve descripción del este.
 
-RF9: Al seleccionar “Conocenos” se presentará una breve descripción de la infraestructura del establecimiento educativo además de un video de un Tour Virtual de la universidad.
+RF9: Al seleccionar “Conócenos” se presentará una breve descripción de la infraestructura del establecimiento educativo además de un video de un Tour Virtual de la universidad.
 
 RF10: Al seleccionar “Sugerencias” se presentará una nueva ventana en  la cual se podrá ingresar el Título (si es un Reclamo, Sugerencia o Recomendación), Descripción, Email. Al presionar en el botón Enviar nos redirecciona al Menú.
 
