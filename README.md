@@ -48,13 +48,13 @@ RF5: Al seleccionar “Iniciar Sesión” se mostrará un menú que consta de �
 
 RF6: Al seleccionar en “Carreras” se visualizará una lista de todas carreras que se ofertan en la universidad.
 
-RF7: Al seleccionar cualquiera de las Carreras de su agrado  se desplegará una ventana con las descripciones de la carrera
+RF7: Al seleccionar cualquier carrera, se desplegará una ventana con las descripciones de la misma.
 
-RF8: Al seleccionar “Eventos”, se presentará cada uno de los eventos que se realizan dentro de la universidad, al dar click en el evento, se presentará una breve descripción del mismo.
+RF8: Al seleccionar “Eventos”, se presentará cada uno de los eventos que se realizan dentro de la universidad, al dar click en un evento, se presentará una breve descripción del mismo.
 
-RF9: Al seleccionar “Conocenos” se presentará una breve descripción de la infraestructura del establecimiento educativo además de un video de un Tour Virtual de la universidad
+RF9: Al seleccionar “Conocenos” se presentará una breve descripción de la infraestructura del establecimiento educativo además de un video de un Tour Virtual de la universidad.
 
-RF10: Al seleccionar “Sugerencias” se presentará una  página  en  la cual se podrán llenar como el Título, Descripción, Email, podrán realizar  sugerencias. Al presionar en el botón Enviar nos redirecciona al Menú.
+RF10: Al seleccionar “Sugerencias” se presentará una nueva ventana en  la cual se podrá ingresar el Título (si es un Reclamo, Sugerencia o Recomendación), Descripción, Email. Al presionar en el botón Enviar nos redirecciona al Menú.
 
 RF11: Al seleccionar la “ExpoUPS” nos visualizará un croquis del parqueadero de la universidad, con cada una de la carpas en donde se exponen los proyectos que realizan las diferentes carreras.
 
