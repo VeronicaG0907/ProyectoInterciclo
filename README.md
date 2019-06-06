@@ -1,15 +1,15 @@
 # Proyecto Interciclo
 
-**INTRODUCCION** 
+**INTRODUCCIÓN** 
 
-El objetivo del presente proyecto es crear una aplicación para la fidelización de jóvenes interesados en iniciar la educación universitaria dentro de la Universidad Politécnica Salesiana, para llevar a cabo este objetivo se implementará dentro de la aplicación información a todos las personas que utilicen la misma para que tengan acceso a todas las carreras que ofrece la universidad y posteriormente puedan formalizar su matrícula. La aplicación será desarrollada en IONIC para todos los dispositivos móviles, con el fin de brindar a los aspirantes una plataforma accesible para su información. Todos los datos serán almacenados en una base de datos PostgreSQL para obtener información de los posibles aspirantes que llegara a tener la universidad. 
+El objetivo del presente proyecto es crear una aplicación para la fidelización de jóvenes interesados en iniciar la educación universitaria dentro de la Universidad Politécnica Salesiana, para llevar a cabo este objetivo se implementará dentro de la aplicación información a todos las personas que utilicen la misma para que tengan acceso a todas las carreras que ofrece la universidad y posteriormente puedan formalizar su matrícula. La aplicación será desarrollada tanto para dispositivos con sistema operativo android y ios, con el fin de brindar a los aspirantes una plataforma accesible para su información. Todos los datos serán almacenados en una base de datos para obtener información de los posibles aspirantes que llegará a tener la universidad. 
 
 
 **OBJETIVOS**
 
  * **Objetivo General**
 
-Diseñar y desarrollar una aplicación que permita fidelizar a jóvenes interesados a cursar su educación universitaria en la Universidad Politécnica Salesiana, exponiendo las diferentes carreras y los principales eventos
+Diseñar y desarrollar una aplicación que permita fidelizar a jóvenes interesados a cursar sus estudios de tercer nivel en la Universidad Politécnica Salesiana, exponiendo las diferentes carreras y los principales eventos
 
 
 - **Objetivo Especificos** 
@@ -17,15 +17,15 @@ Diseñar y desarrollar una aplicación que permita fidelizar a jóvenes interesa
 
 Presentar informacion a los interesados en la Universidad
 
-Diseñar una aplicacion movil de facil uso para los usuarios
+Diseñar una aplicación móvil de fácil uso para los usuarios
 
-Cambiar el modo de matriculacion
+Cambiar el modo de matriculación
 
 
 
 **ANTECEDENTES**
 
-Con la creacion de la apliaccion movil lo que se va a llegar a tener es la informacion de los nuevos aspirantes e interesados en las carreras ofertadas dentrode de la universidad, para ello se llevara a cabo una encuesta que estara al inicio de la aplicacion y poder manejar los datos y saber que informacion presentar acerca de las opciones academicas brindadas por la universidad. Tambien existira la opcion de matriculacion para los estudiantes pertenecientes a la universidad esto con fin de ahorrar tiempo y eliminar que las matriculas sean presenciales. La aplicacion movil tiene como puntos de referencia la aplicacion diseñada en la Universidad de Guayaquil debido a que tienen una base muy similar a la que se desea implementar dentro de la Universidad Politecnica Salesiana. 
+Con la creación de la apliación móvil lo que se va a llegar a tener es la información de los nuevos aspirantes e interesados en las carreras ofertadas dentro de de la universidad, para ello se llevará a cabo una encuesta que estará al inicio de la aplicación y poder manejar los datos y saber qué información presentar acerca de las opciones académicas brindadas por la universidad. Tambien existira la opcion de matriculacion para los estudiantes pertenecientes a la universidad esto con fin de ahorrar tiempo y eliminar que las matriculas sean presenciales. La aplicacion movil tiene como puntos de referencia la aplicacion diseñada en la Universidad de Guayaquil debido a que tienen una base muy similar a la que se desea implementar dentro de la Universidad Politecnica Salesiana. 
 
 
 **ALCANCE**
