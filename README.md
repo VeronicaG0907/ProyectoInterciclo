@@ -36,19 +36,29 @@ La motivación del proyecto es facilitar el acceso a la información relevante d
 
 **Requerimientos Funcionales**
 
-RF1: La aplicación permitirá iniciar sesión.
+RF1: Al ingresar en la aplicación se mostrarán  las opciones de Ingresar y Registrarse
 
-RF2 : Permitirá registrar los intereses del aspirante.
+RF2 : Al seleccionar  “Ingresar ” se ingresará el usuario  y contraseña
 
-RF3 : La aplicación recibirá un push notification indicando el evento a realizarse de acuerdo al interés ingresado.
+RF3 : Al seleccionar  “Registrarse” se deberá ingresar los siguientes datos: cédula, nombres, apellidos, edad, dirección, teléfono, email (este será el usuario para el inicio de sesión) y una contraseña, además, se contará con una opción  “Intereses
 
-RF4: Desde la aplicación se podrá registrar aspirantes o usuarios nuevos.
+RF4: Al seleccionar “Intereses” el usuario deberá responder una Encuesta con preguntas acerca de las posibles carreras que puede iniciar
 
-RF5: La aplicación deberá mostrar información de las carreras y de los eventos importantes (expoUPS).
+RF5: Al seleccionar “Iniciar Sesión” se mostrará un menú que consta de “Carreras”, ”Eventos”, ”Conocenos”, ”Sugerencias” y ”ExpoUPS
 
-RF6: Contará con una web transaccional en donde se podrán hacer los CRUD de los datos.
+RF6: Al seleccionar en “Carreras” se visualizará una lista de todas carreras que se ofertan en la universidad.
 
-RF7: Desde la web se enviarán notificaciones de las actividades a los aspirantes que hayan indicado que les interesa las carreras a las cuales pertenece la actividad. 
+RF7: Al seleccionar cualquiera de las Carreras de su agrado  se desplegará una ventana con las descripciones de la carrera
+
+RF8: Al seleccionar “Eventos”, se presentará cada uno de los eventos que se realizan dentro de la universidad, al dar click en el evento, se presentará una breve descripción del mismo.
+
+RF9: Al seleccionar “Conocenos” se presentará una breve descripción de la infraestructura del establecimiento educativo además de un video de un Tour Virtual de la universidad
+
+RF10: Al seleccionar “Sugerencias” se presentará una  página  en  la cual se podrán llenar como el Título, Descripción, Email, podrán realizar  sugerencias. Al presionar en el botón Enviar nos redirecciona al Menú.
+
+RF11: Al seleccionar la “ExpoUPS” nos visualizará un croquis del parqueadero de la universidad, con cada una de la carpas en donde se exponen los proyectos que realizan las diferentes carreras.
+
+
 
 **Requerimientos No Funcionales**
 
