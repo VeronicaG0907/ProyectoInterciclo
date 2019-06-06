@@ -2,7 +2,7 @@
 
 **INTRODUCCIÓN** 
 
-El objetivo del presente proyecto es crear una aplicación para la fidelización de jóvenes interesados en iniciar la educación universitaria dentro de la Universidad Politécnica Salesiana, para llevar a cabo este objetivo se implementará dentro de la aplicación información a todos las personas que utilicen la misma para que tengan acceso a todas las carreras que ofrece la universidad y posteriormente puedan formalizar su matrícula. La aplicación será desarrollada tanto para dispositivos con sistema operativo android y ios, con el fin de brindar a los aspirantes una plataforma accesible para su información. Todos los datos serán almacenados en una base de datos para obtener información de los posibles aspirantes que llegará a tener la universidad. 
+El objetivo del presente proyecto es crear una aplicación para dispositivos móviles que permita la fidelización de jóvenes interesados en iniciar una carrera universitaria en la Universidad Politécnica Salesiana. Para llevar a cabo este objetivo se analizará las habilidades y potenciales de los estudiantes por medio de una encuesta, a fin de facilitarles una guía práctica para su correcta formación. Toda la información recogida se enviará a una base de datos, para poder realizar un estudio a largo plazo.
 
 
 **OBJETIVOS**
