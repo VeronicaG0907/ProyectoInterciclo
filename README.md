@@ -9,7 +9,7 @@ El objetivo del presente proyecto es crear una aplicación para dispositivos mó
 
  * **Objetivo General**
 
-Diseñar y desarrollar una aplicación que permita fidelizar a jóvenes interesados en iniciar una carrera universitaria en la Universidad Politécnica Salesiana, exponiendo la información más relevante de la universidad.
+Diseñar y desarrollar una aplicación que permita fidelizar a jóvenes interesados en iniciar una carrera universitaria en la Universidad Politécnica Salesiana, exponiendo la información más relevante de la universidad. 
 
 * **Objetivos Específicos** 
 
