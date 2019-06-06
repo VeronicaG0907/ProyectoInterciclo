@@ -38,19 +38,19 @@ La motivación del proyecto es facilitar el acceso a la información relevante d
 
 RF1: Al ingresar en la aplicación se mostrarán  las opciones de Ingresar y Registrarse
 
-RF2 : Al seleccionar  “Ingresar ” se ingresará el usuario  y contraseña
+RF2 : Al seleccionar  “Ingresar ” se ingresará el usuario  y contraseña.
 
-RF3 : Al seleccionar  “Registrarse” se deberá ingresar los siguientes datos: cédula, nombres, apellidos, edad, dirección, teléfono, email (este será el usuario para el inicio de sesión) y una contraseña, además, se contará con una opción  “Intereses
+RF3 : Al seleccionar  “Registrarse” se deberá ingresar los siguientes datos: cédula, nombres, apellidos, edad, dirección, teléfono, email (este será el usuario para el inicio de sesión) y una contraseña, además, se contará con una opción  "Intereses"
 
-RF4: Al seleccionar “Intereses” el usuario deberá responder una Encuesta con preguntas acerca de las posibles carreras que puede iniciar
+RF4: Al seleccionar “Intereses” el usuario deberá responder una Encuesta con preguntas acerca de las posibles carreras que puede iniciar.
 
-RF5: Al seleccionar “Iniciar Sesión” se mostrará un menú que consta de “Carreras”, ”Eventos”, ”Conocenos”, ”Sugerencias” y ”ExpoUPS
+RF5: Al seleccionar “Iniciar Sesión” se mostrará un menú que consta de "Carreras", "Eventos", "Conocenos", "Sugerencias" y "ExpoUPS".
 
 RF6: Al seleccionar en “Carreras” se visualizará una lista de todas carreras que se ofertan en la universidad.
 
-RF7: Al seleccionar cualquier carrera, se desplegará una ventana con las descripciones de esta.
+RF7: Al seleccionar cualquier carrera, se desplegará una ventana con las descripciones de la misma.
 
-RF8: Al seleccionar “Eventos”, se presentará cada uno de los eventos que se realizan dentro de la universidad, al dar click en un evento, se presentará una breve descripción del este.
+RF8: Al seleccionar “Eventos”, se presentará cada uno de los eventos que se realizan dentro de la universidad, al dar click en un evento, se presentará una breve descripción del mismo.
 
 RF9: Al seleccionar “Conócenos” se presentará una breve descripción de la infraestructura del establecimiento educativo además de un video de un Tour Virtual de la universidad.
 
