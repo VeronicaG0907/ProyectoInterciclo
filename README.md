@@ -29,7 +29,7 @@ Por ese motivo se ha pensado en desarrollar una aplicación móvil para el uso d
 
 **ALCANCE**
 
-La aplicación móvil será realizada para los sistemas operativos Android e IOS, utilizando el Framework Ionic, presentando la información que ofrece la universidad, además se  contará con un diseño intuitivo y amigable, permitiendo de esta manera que los usuarios accedan fácilmente a la información presentada en la aplicación, se permitirá el registro de aspirantes desde la aplicación.
+La motivación del proyecto es facilitar el acceso a la información relevante de la universidad, con el desarrollo de una aplicación móvil para tecnologías Android e iOS, incluyendo acceso a la información de aspirantes (Carreras), información geo referenciada  de la universidad (Tour Virtual), eventos y ExpoUPS, además, se  contará con un diseño intuitivo y amigable, permitiendo de esta manera que los usuarios accedan fácilmente a la información presentada en la aplicación.
 
 **Requerimiento Funcionales y No Funcionales**
 
